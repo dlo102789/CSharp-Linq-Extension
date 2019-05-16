@@ -1,0 +1,7 @@
+C:\Users\whone\Downloads\CS470\Proj 04\Proj04\Proj04\bin\Debug\Proj04.exe.config
+C:\Users\whone\Downloads\CS470\Proj 04\Proj04\Proj04\bin\Debug\Proj04.exe
+C:\Users\whone\Downloads\CS470\Proj 04\Proj04\Proj04\bin\Debug\Proj04.pdb
+C:\Users\whone\Downloads\CS470\Proj 04\Proj04\Proj04\obj\Debug\Proj04.csprojAssemblyReference.cache
+C:\Users\whone\Downloads\CS470\Proj 04\Proj04\Proj04\obj\Debug\Proj04.csproj.CoreCompileInputs.cache
+C:\Users\whone\Downloads\CS470\Proj 04\Proj04\Proj04\obj\Debug\Proj04.exe
+C:\Users\whone\Downloads\CS470\Proj 04\Proj04\Proj04\obj\Debug\Proj04.pdb
